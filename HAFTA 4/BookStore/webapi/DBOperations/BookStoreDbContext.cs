@@ -3,7 +3,7 @@ using webapi.Entities;
 
 namespace webapi.DBOperations
 {
-    public class BookStoreDbContext : DbContext
+    public class BookStoreDbContext : DbContext, IBookStoreDbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -17,5 +17,10 @@ namespace webapi.DBOperations
         public DbSet<Genre> Genres { get; set; }
 
         public DbSet<Author> Authors { get; set; }
+
+        public override int SaveChanges()
+        {
+            return base.SaveChanges();
+        }
     }
 }

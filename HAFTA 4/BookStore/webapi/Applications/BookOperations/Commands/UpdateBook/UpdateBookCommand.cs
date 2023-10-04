@@ -10,9 +10,9 @@ namespace webapi.Applications.BookOperations.Commands.UpdateBook
     {
         public int BookId { get; set; }
         public UpdateBookModel Model { get; set; }
-        private readonly BookStoreDbContext _dbContext;
+        private readonly IBookStoreDbContext _dbContext;
 
-        public UpdateBookCommand(BookStoreDbContext dbContext)
+        public UpdateBookCommand(IBookStoreDbContext dbContext)
         {
             _dbContext = dbContext;
         }
@@ -25,6 +25,7 @@ namespace webapi.Applications.BookOperations.Commands.UpdateBook
 
             book.Title = Model.Title != default ? Model.Title : book.Title;
             book.GenreId = Model.GenreId != default ? Model.GenreId : book.GenreId;
+            book.AuthorId = Model.GenreId != default ? Model.AuthorId : book.AuthorId;
 
             _dbContext.SaveChanges();
         }

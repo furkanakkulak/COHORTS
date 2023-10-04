@@ -8,9 +8,9 @@ namespace webapi.Applications.AuthorOperations.Commands.UpdateAuthor
     {
         public int AuthorId { get; set; }
         public UpdateAuthorModel Model { get; set; }
-        private readonly BookStoreDbContext _dbContext;
+        private readonly IBookStoreDbContext _dbContext;
 
-        public UpdateAuthorCommand(BookStoreDbContext dbContext)
+        public UpdateAuthorCommand(IBookStoreDbContext dbContext)
         {
             _dbContext = dbContext;
         }
@@ -43,5 +43,6 @@ namespace webapi.Applications.AuthorOperations.Commands.UpdateAuthor
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public DateTime BirthDate { get; set; }
+        public string Name { get; set; }
     }
 }

@@ -31,16 +31,6 @@
 /Users/furkanakkulak/Desktop/VAKIFBANK/COHORTS/HAFTA 1/webapi/obj/Debug/net7.0/webapi.pdb
 /Users/furkanakkulak/Desktop/VAKIFBANK/COHORTS/HAFTA 1/webapi/obj/Debug/net7.0/webapi.genruntimeconfig.cache
 /Users/furkanakkulak/Desktop/VAKIFBANK/COHORTS/HAFTA 1/webapi/obj/Debug/net7.0/ref/webapi.dll
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.csproj.AssemblyReference.cache
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.GeneratedMSBuildEditorConfig.editorconfig
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.AssemblyInfoInputs.cache
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.AssemblyInfo.cs
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.csproj.CoreCompileInputs.cache
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.MvcApplicationPartsAssemblyInfo.cs
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.MvcApplicationPartsAssemblyInfo.cache
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.dll
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/refint/webapi.dll
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.pdb
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/appsettings.Development.json
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/appsettings.json
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/webapi
@@ -48,14 +38,25 @@
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/webapi.runtimeconfig.json
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/webapi.dll
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/webapi.pdb
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/AutoMapper.dll
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/FluentValidation.dll
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/Newtonsoft.Json.dll
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.csproj.AssemblyReference.cache
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.AssemblyInfoInputs.cache
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.AssemblyInfo.cs
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.csproj.CoreCompileInputs.cache
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.MvcApplicationPartsAssemblyInfo.cs
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.MvcApplicationPartsAssemblyInfo.cache
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/staticwebassets/msbuild.webapi.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/staticwebassets/msbuild.build.webapi.props
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.webapi.props
@@ -65,9 +66,8 @@
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/staticwebassets.development.json
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/scopedcss/bundle/webapi.styles.css
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.csproj.CopyComplete
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.dll
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/refint/webapi.dll
+/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.pdb
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/webapi.genruntimeconfig.cache
 /Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/obj/Debug/net7.0/ref/webapi.dll
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/AutoMapper.dll
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/FluentValidation.dll
-/Users/furkanakkulak/Desktop/dotnetpatika/BookStore/webapi/bin/Debug/net7.0/Newtonsoft.Json.dll
